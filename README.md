@@ -1,19 +1,19 @@
-Overview:
+#Overview:
 This project is a serverless web application built using AWS services. It demonstrates how to perform Create, Read, Update, and Delete (CRUD) operations in a scalable and cost-effective manner without managing traditional servers. The application tracks and updates a view count while allowing user interaction through a web interface.
 
-Features:
+#Features:
 1)Serverless Architecture: No need to manage servers; AWS handles the infrastructure.
 2)CRUD Operations: Users can interact with data stored in DynamoDB.
 3)Scalable and Reliable: Uses AWS services like Lambda, DynamoDB, S3, and CloudFront.
 4)Responsive Frontend: A visually appealing interface built with HTML and CSS.
 
-Technologies Used:
+#Technologies Used:
 1)Backend: AWS Lambda (Python), DynamoDB
-2)Frontend: HTML, CSS, JavaScript (optional)
+2)Frontend: HTML, CSS, JavaScript
 3)Static File Hosting: Amazon S3
 4)Content Delivery: AWS CloudFront
 
-Architecture:
+#Architecture:
 
 (A)Frontend:
 Hosted on Amazon S3.
